@@ -68,10 +68,10 @@ int main() {
     double Resultado = PoderTotalCardI > PoderTotalCardII;
 
     if (Resultado == 1) {
-        printf("Card B venceu!\n");
+        printf("Card II venceu!\n");
     } else {
-        printf("Card A venceu!\n");
+        printf("Card I venceu!\n");
     }
-    
+
     return 0;
 }
